@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cats-group/static/css/main.8e038e9e.css",
+    "main.js": "/cats-group/static/js/main.e83f994e.js",
+    "static/media/paw background grey.jpeg": "/cats-group/static/media/paw background grey.5d07a923b5d645cb74a2.jpeg",
+    "index.html": "/cats-group/index.html",
+    "main.8e038e9e.css.map": "/cats-group/static/css/main.8e038e9e.css.map",
+    "main.e83f994e.js.map": "/cats-group/static/js/main.e83f994e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e038e9e.css",
+    "static/js/main.e83f994e.js"
+  ]
+}
